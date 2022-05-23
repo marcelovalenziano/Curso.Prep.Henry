@@ -210,7 +210,7 @@ En este ejemplo, vemos que inicialmente establecemos nuestra variable `i` en 0, 
 
 ### El operador ++
 
-Vimos en el último ejemplo el operador `++`. Esta es la abreviatura de Javascript para "Establecer el valor de la variable a su valor actual más uno". Hay algunas más de estas expresiones abreviadas de matemática / asignación variable, las visitaremos en las próximas lecciones.
+Vimos en el último ejemplo el operador `++`. Esta es la abreviatura de Javascript para "AUMENTA DE A UNO = ". Hay algunas más de estas expresiones abreviadas de matemática / asignación variable, las visitaremos en las próximas lecciones.
 
 ### Bucles infinitos
 
